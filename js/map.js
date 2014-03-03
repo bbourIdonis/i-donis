@@ -47,6 +47,10 @@
 	  			});
 
 		    });
+		}else{
+
+			alert("Impossible de vous localiser");
+
 		} 
 	}
 
